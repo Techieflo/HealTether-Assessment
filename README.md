@@ -13,7 +13,7 @@ I developed this Flutter application to display a list of users fetched from an 
 - [Running Tests](#running-tests)
 - [Troubleshooting](#troubleshooting)
 - [Contribution](#contribution)
-- [License](#license)
+
 
 ## Features
 I implemented the following features to ensure a smooth user experience:
