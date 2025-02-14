@@ -51,11 +51,11 @@ I implemented the following features to ensure a smooth user experience:
 To run the project, follow the following steps:
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/user-list-app.git
+   git clone [clone repo](https://github.com/Techieflo/HealTether-Assessment.git)
    ```
 2. **Navigate to the Project Folder**:
    ```bash
-   cd user-list-app
+   cd heal_tether/lib
    ```
 3. **Install Dependencies**:
    ```bash
@@ -68,7 +68,7 @@ To run the project, follow the following steps:
      ```
      API_URL=[endpoint](https://jsonplaceholder.typicode.com)
      ```
-   - Ensure the `.env` file is not committed to version control by adding it to `.gitignore`.
+   - you may need Ensure the `.env` file is not committed to version control by adding it to `.gitignore`.
 5. **Run the App**:
    ```bash
    flutter run
